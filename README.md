@@ -2,12 +2,11 @@
 
 > **Participation of Google's Agents Intensive Hackathon** - AI agent that turns your fridge chaos into personalized recipes
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Writeup-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/what-should-i-eat-smart-recipe-suggester-agent)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Gemini](https://img.shields.io/badge/Gemini-2.0%20Flash-8E75B2?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 
-[Demo Video](#) · [Live App](#) · [Report Bug](#) · [Request Feature](#)
+[Demo Video](https://github.com/Jean8900/What-Should-I-Eat-/blob/main/DEMO.mp4) 
 
 ---
 
